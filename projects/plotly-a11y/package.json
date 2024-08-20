@@ -1,0 +1,25 @@
+{
+    "name": "plotly-a11y",
+    "version": "0.0.1",
+    "peerDependencies": {
+        "@angular/common": "^17.3.0",
+        "@angular/core": "^17.3.0"
+    },
+    "dependencies": {
+        "tslib": "^2.3.0"
+    },
+    "sideEffects": false,
+    "keywords": [
+        "plotly",
+        "angular-plotly",
+        "treemap",
+        "a11y",
+        "accessibility"
+    ],
+    "author": "Pradeep Pathak <pradeeppathak22@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/your-username/your-repository.git"
+    }
+}

@@ -14,6 +14,11 @@
     "declaration": false,
     "experimentalDecorators": true,
     "moduleResolution": "node",
+    "paths": {
+      "plotly-a11y": [
+        "./dist/plotly-a11y"
+      ]
+    },
     "importHelpers": true,
     "target": "ES2022",
     "module": "ES2022",
